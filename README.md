@@ -25,4 +25,6 @@ The Contract Automation Kit is designed for indie founders, startups, and legal-
 This kit is protected under provisional patent filings and is not open-source.  
 For licensing inquiries or premium access, contact: **Sam.Banuelos1313@gmail.com**
 
+## 🌐 Learn More
+Visit [Hypecruit](https://chronosai.gumroad.com/l/utjscb) for demos and additional kits.
 
